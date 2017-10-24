@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="13897009958581"
+    token="6497398032072128865"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="11559" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="5128" />
+    <task
+        name="verifier"
+        duration="171" />
+
+    <artifact
+        location="C:\Users\tiago\OneDrive\Documentos\Apps\Apps\Camera\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="13897009958581"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\tiago\OneDrive\Documentos\Apps\Apps\Camera\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

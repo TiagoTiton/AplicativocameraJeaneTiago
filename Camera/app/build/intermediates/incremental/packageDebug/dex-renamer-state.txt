@@ -1,0 +1,7 @@
+#Thu Oct 19 17:32:32 BRST 2017
+base.0=C\:\\Users\\tiago\\OneDrive\\Documentos\\Apps\\Apps\\Camera\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a2af9548a1011954b22c93c72a09929c1db7f1dc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\tiago\\OneDrive\\Documentos\\Apps\\Apps\\Camera\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9e3b19a2aef36b30bb4929d80ab789fa0016d235\\classes.dex
+base.1=C\:\\Users\\tiago\\OneDrive\\Documentos\\Apps\\Apps\\Camera\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9e3b19a2aef36b30bb4929d80ab789fa0016d235
+file.0=C\:\\Users\\tiago\\OneDrive\\Documentos\\Apps\\Apps\\Camera\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a2af9548a1011954b22c93c72a09929c1db7f1dc\\classes.dex
